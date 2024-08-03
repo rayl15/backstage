@@ -1,10 +1,3 @@
-# Overview
-
-This is a getting started with Backstage Tutorial. It's part of [this blog post.](https://tekanaid.com/posts/unlocking-developer-bliss-a-first-look-at-backstage-io)
-
-## Instructions
-
-I couldn't get it to work in codespaces, so working on my own machine.
 
 ### Install the App
 
